@@ -1,0 +1,2 @@
+- The nixos-unstable folder is the virtual machine that wasn't used at the end
+- strippedHal folder is the working configuration for my the working Host machine, but I stripped away the unnecessary parts, since I was usinf a type of configuration called flakes, which would've been unecessary to put it all here, and was a privacy concern.
